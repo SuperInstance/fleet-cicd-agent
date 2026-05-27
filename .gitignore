@@ -1,1 +1,4 @@
 fleet_cicd_agent/__pycache__/
+tests/__pycache__/
+__pycache__/
+*.pyc
