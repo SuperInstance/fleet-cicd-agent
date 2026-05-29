@@ -78,6 +78,7 @@ print(agent.get_status(result))
 | `approval_required` | Require manual approval before deploy |
 
 ## How It Fits
+- [OpenConstruct Documentation](https://github.com/SuperInstance/openconstruct-docs) — ecosystem-wide docs and guides
 
 - **[cocapn-health-rs](https://github.com/SuperInstance/cocapn-health-rs)** — Health checks trigger rollback when post-deploy checks fail
 - **[co-captain-git-agent](https://github.com/SuperInstance/co-captain-git-agent)** — Human liaison dispatches CI/CD tasks via fleet protocol
